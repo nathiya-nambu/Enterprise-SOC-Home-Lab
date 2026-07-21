@@ -1,14 +1,20 @@
 # Active Directory
 
-## Objectives
+This section documents the deployment and configuration of Microsoft Active Directory within the Enterprise SOC Home Lab.
 
-Configure a Windows Server Domain Controller.
+## Components
 
-## Topics
-
-- Domain Creation
-- DNS Configuration
-- Organizational Units
-- User Management
+- Domain Controller
+- Organizational Units (OU)
+- Domain Users
+- Security Groups
+- DNS
 - Group Policy
-- Domain Join
+
+## Domain
+
+lab.local
+
+## Objective
+
+Build an enterprise identity infrastructure for authentication, authorization, and centralized administration.
