@@ -1,10 +1,19 @@
 # Attack Simulation
 
-This section demonstrates simulated attacks performed inside the lab.
+This section documents the attack scenarios simulated inside the Enterprise SOC Home Lab.
 
-## Simulations
+## Objectives
 
+- Generate security events
+- Validate Wazuh detections
+- Practice threat hunting
+- Perform incident investigation
+
+## Simulated Attacks
+
+- Failed Login
 - PowerShell Execution
-- Encoded Commands
-- Suspicious Process Creation
-- Windows Event Generation
+- Discovery Commands
+- Registry Modification
+- File Creation
+- EICAR Malware Test
