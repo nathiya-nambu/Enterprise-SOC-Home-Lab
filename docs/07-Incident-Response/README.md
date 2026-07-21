@@ -1,12 +1,35 @@
 # Incident Response
 
-This section documents the investigation process for detected alerts.
+This section demonstrates the incident investigation process performed after security alerts were generated inside the Enterprise SOC Home Lab.
 
-## Workflow
+## Investigation Workflow
 
-1. Detection
-2. Investigation
-3. Containment
-4. Eradication
-5. Recovery
-6. Lessons Learned
+Alert Generated
+
+↓
+
+Threat Hunting
+
+↓
+
+Evidence Collection
+
+↓
+
+Analysis
+
+↓
+
+Incident Report
+
+↓
+
+Remediation Recommendation
+
+↓
+
+Case Closed
+
+## Available Report
+
+- PowerShell Investigation
