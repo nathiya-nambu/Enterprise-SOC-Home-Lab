@@ -1,8 +1,6 @@
 # Wazuh SIEM
 
-## Overview
-
-Wazuh is used for centralized log collection, monitoring, and alerting.
+This section documents the deployment, configuration and operation of Wazuh SIEM inside the Enterprise SOC Home Lab.
 
 ## Components
 
@@ -10,3 +8,14 @@ Wazuh is used for centralized log collection, monitoring, and alerting.
 - Wazuh Indexer
 - Wazuh Dashboard
 - Wazuh Agent
+- Detection Rules
+- Alerting
+- Log Collection
+
+## Objectives
+
+- Centralize endpoint logs
+- Detect suspicious activity
+- Generate security alerts
+- Support threat hunting
+- Perform incident investigation
