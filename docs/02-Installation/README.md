@@ -1,12 +1,25 @@
 # Installation Guide
 
-This section contains the installation steps for all lab components.
+This section documents the installation and configuration of the Enterprise SOC Home Lab.
 
 ## Components
 
 - VMware Workstation
-- Windows Server
+- Virtual Network Configuration
+- Windows Server 2022
 - Ubuntu Server
+- Windows 11 Enterprise
+- Active Directory
 - Wazuh SIEM
 - Sysmon
-- Windows 11 Client
+
+## Installation Order
+
+1. VMware Workstation
+2. Virtual Network Configuration
+3. Windows Server
+4. Ubuntu Server
+5. Windows 11
+6. Active Directory
+7. Wazuh
+8. Sysmon
