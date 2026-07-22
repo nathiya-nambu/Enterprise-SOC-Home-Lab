@@ -49,7 +49,7 @@ This project was created for learning, portfolio development, and demonstrating 
 
 ## Lab Architecture
 
-> Architecture diagram coming soon.
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/28f371e1-fbf8-431f-879b-08d3d25e2c64" />
 
 
 ## Documentation
