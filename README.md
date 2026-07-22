@@ -112,3 +112,12 @@ Through this project, I gained practical experience in:
 - Threat Intelligence Integration
 - Active Response Automation
 
+## 👨‍💻 Author
+
+**S.Nathiya Nambu**
+
+Cybersecurity Student
+
+Aspiring SOC Analyst
+
+Blue Team | Threat Detection | Wazuh | Sysmon | Active Directory
