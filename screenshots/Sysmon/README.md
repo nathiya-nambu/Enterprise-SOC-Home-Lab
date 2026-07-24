@@ -1,5 +1,5 @@
 ## Sysmon Service
-<img width="1918" height="1030" alt="Image" src="https://github.com/user-attachments/assets/c0d21368-b540-468c-8e99-4047effe5cc1" />
+<img width="1023" height="898" alt="Image" src="https://github.com/user-attachments/assets/abf966ec-61ad-449a-bc13-9059de2ddcbe" />
 
 
 ## Sysmon Events
